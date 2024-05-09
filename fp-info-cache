@@ -1,4 +1,4 @@
-23361450900454913
+23361450902384500
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -86769,7 +86769,7 @@ res_cap_SM_bond_pad
 
 
 0
-0
+2
 0
 Resistor_THT
 R_Array_SIP4
