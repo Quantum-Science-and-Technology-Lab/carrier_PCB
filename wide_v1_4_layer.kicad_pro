@@ -451,7 +451,8 @@
   },
   "libraries": {
     "pinned_footprint_libs": [
-      "carrier_PCB"
+      "carrier_PCB",
+      "Library"
     ],
     "pinned_symbol_libs": []
   },

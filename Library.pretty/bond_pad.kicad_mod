@@ -1,0 +1,101 @@
+(footprint "bond_pad"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0.1 -5 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "643dbc24-257a-4d96-8b8a-779e3a8a5048")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "bond_pad"
+		(at 0.025 3.7 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "29b89511-9fe2-440e-9fb8-60f3326fc073")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" "Connector_Wire:bond_pad"
+		(at 0 -2.825 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a9f789b4-a3e8-4a1b-ad74-b0b6704ba36e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "22d53548-02e7-4334-90cc-8fd88639492f")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ea9d1540-9302-4284-b18b-17b46a9e67cd")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(fp_rect
+		(start -0.125 -0.25)
+		(end 0.125 0.25)
+		(stroke
+			(width 0.01)
+			(type solid)
+		)
+		(fill solid)
+		(layer "F.Mask")
+		(uuid "a61d1cc0-c27b-43c2-bac4-af07bdff001f")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0.025 5.4 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "a66dec72-6ba3-4d33-bac3-2127adf23028")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "4" smd roundrect
+		(at 0 0)
+		(size 0.25 0.5)
+		(layers "F.Cu")
+		(roundrect_rratio 0.25)
+		(uuid "6477268e-2167-445e-a61d-040b62ec5f3f")
+	)
+)
