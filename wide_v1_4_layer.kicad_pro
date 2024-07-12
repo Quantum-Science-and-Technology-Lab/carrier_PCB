@@ -39,7 +39,7 @@
         "pads": {
           "drill": 0.0,
           "height": 0.5,
-          "width": 0.25
+          "width": 0.5
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -450,7 +450,9 @@
     }
   },
   "libraries": {
-    "pinned_footprint_libs": [],
+    "pinned_footprint_libs": [
+      "carrier_PCB"
+    ],
     "pinned_symbol_libs": []
   },
   "meta": {

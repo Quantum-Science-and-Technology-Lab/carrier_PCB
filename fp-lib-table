@@ -1,4 +1,6 @@
 (fp_lib_table
   (version 7)
   (lib (name "carrier_PCB")(type "KiCad")(uri "C:/Users/Edward/Documents/GitHub Projects/carrier_PCB")(options "")(descr ""))
+  (lib (name "wide_v1_4_layer-backups")(type "KiCad")(uri "${KIPRJMOD}/wide_v1_4_layer-backups.pretty")(options "")(descr ""))
+  (lib (name "lib")(type "KiCad")(uri "${KIPRJMOD}/lib.pretty")(options "")(descr ""))
 )
