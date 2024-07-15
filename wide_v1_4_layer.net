@@ -1,7 +1,7 @@
 (export (version "E")
   (design
-    (source "C:\\Users\\Edward\\Documents\\GitHub\\carrier_PCB\\wide_v1_4_layer.kicad_sch")
-    (date "2024-07-12T15:52:18-0700")
+    (source "C:\\Users\\Edward\\Documents\\GitHub Projects\\carrier_PCB\\wide_v1_4_layer.kicad_sch")
+    (date "2024-07-14T15:03:59-0700")
     (tool "Eeschema 8.0.3")
     (sheet (number "1") (name "/") (tstamps "/")
       (title_block
