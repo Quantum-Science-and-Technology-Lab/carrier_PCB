@@ -37,9 +37,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.0,
-          "height": 0.55,
-          "width": 0.55
+          "drill": 0.7366,
+          "height": 0.9906,
+          "width": 0.9906
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -86,7 +86,7 @@
         "item_on_disabled_layer": "error",
         "items_not_allowed": "error",
         "length_out_of_range": "error",
-        "lib_footprint_issues": "warning",
+        "lib_footprint_issues": "ignore",
         "lib_footprint_mismatch": "warning",
         "malformed_courtyard": "error",
         "microvia_drill_out_of_range": "error",
@@ -103,7 +103,7 @@
         "skew_out_of_range": "error",
         "solder_mask_bridge": "ignore",
         "starved_thermal": "error",
-        "text_height": "warning",
+        "text_height": "ignore",
         "text_thickness": "warning",
         "through_hole_pad_without_hole": "error",
         "too_many_vias": "error",
