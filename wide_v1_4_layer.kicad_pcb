@@ -112,7 +112,7 @@
 		(pad_to_mask_clearance 0)
 		(allow_soldermask_bridges_in_footprints no)
 		(pcbplotparams
-			(layerselection 0x00010fc_ffffffff)
+			(layerselection 0x000f0ff_ffffffff)
 			(plot_on_all_layers_selection 0x0000000_00000000)
 			(disableapertmacros no)
 			(usegerberextensions no)
@@ -141,12 +141,12 @@
 			(plotfptext yes)
 			(plotinvisibletext no)
 			(sketchpadsonfab no)
-			(subtractmaskfromsilk no)
+			(subtractmaskfromsilk yes)
 			(outputformat 1)
 			(mirror no)
-			(drillshape 1)
+			(drillshape 0)
 			(scaleselection 1)
-			(outputdirectory "")
+			(outputdirectory "C:/Users/Edward/Documents/GitHub/carrier_PCB/fab_output/")
 		)
 	)
 	(net 0 "")
@@ -7621,7 +7621,7 @@
 	)
 	(gr_poly
 		(pts
-			(xy 86.82 98.99) (xy 83.4 102.61) (xy 83 102.33) (xy 82.85 99.215) (xy 86.25 99.28)
+			(xy 86.82 98.99) (xy 83.4 102.61) (xy 82.56 102.4) (xy 82.85 99.215) (xy 86.25 99.28)
 		)
 		(stroke
 			(width 0.1)
@@ -7763,8 +7763,8 @@
 		(uuid "03483c9b-1199-452c-a67e-98eb7492fc7a")
 	)
 	(gr_line
-		(start 73.77 70.99)
-		(end 84.11 71.01)
+		(start 73.76 70.81)
+		(end 84.1 70.83)
 		(stroke
 			(width 0.2)
 			(type solid)
@@ -7834,7 +7834,7 @@
 	)
 	(gr_line
 		(start 73.77 75.4)
-		(end 73.77 70.99)
+		(end 73.76 70.81)
 		(stroke
 			(width 0.2)
 			(type solid)
@@ -7864,7 +7864,7 @@
 	)
 	(gr_line
 		(start 84.09 75.39)
-		(end 84.11 71.01)
+		(end 84.1 70.83)
 		(stroke
 			(width 0.2)
 			(type solid)
@@ -16564,7 +16564,7 @@
 		(uuid "ddf15b0c-5619-47ac-bb1a-154b8fd63513")
 	)
 	(via
-		(at 69.18 77.94)
+		(at 69.21 77.94)
 		(size 0.3)
 		(drill 0.2)
 		(layers "F.Cu" "B.Cu")
