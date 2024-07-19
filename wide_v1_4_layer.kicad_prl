@@ -64,7 +64,11 @@
       39,
       40
     ],
+<<<<<<< Updated upstream
     "visible_layers": "0009030_80000007",
+=======
+    "visible_layers": "0008000_00000001",
+>>>>>>> Stashed changes
     "zone_display_mode": 0
   },
   "git": {

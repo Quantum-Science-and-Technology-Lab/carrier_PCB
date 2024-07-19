@@ -509,7 +509,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "wide_v1_4_layer.net",
-      "plot": "C:/Users/Edward/Documents/GitHub/carrier_PCB/fab_output/",
+      "plot": "fab_output/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
