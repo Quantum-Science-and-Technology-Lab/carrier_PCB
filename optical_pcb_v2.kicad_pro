@@ -41,7 +41,7 @@
           "height": 0.55,
           "width": 0.55
         },
-        "silk_line_width": 0.15,
+        "silk_line_width": 0.05,
         "silk_text_italic": false,
         "silk_text_size_h": 1.0,
         "silk_text_size_v": 1.0,
@@ -480,7 +480,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "wide_v1_4_layer.kicad_pro",
+    "filename": "optical_pcb_v2.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -532,7 +532,7 @@
     "last_paths": {
       "gencad": "",
       "idf": "",
-      "netlist": "wide_v1_4_layer.net",
+      "netlist": "optical_pcb_v2.net",
       "plot": "fab_output/",
       "pos_files": "",
       "specctra_dsn": "",

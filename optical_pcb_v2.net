@@ -1,0 +1,1738 @@
+(export 
+  (version "E") 
+  (design 
+    (source "/Users/edward/Library/CloudStorage/OneDrive-UBC/Research/QuantumIO Diode/pcb_design/optical_pcb_v2//wide_v1_4_layer.kicad_sch") 
+    (date "2025-03-27T11:53:41-0700") 
+    (tool "Eeschema 9.0.0") 
+    (sheet 
+      (number "1") 
+      (name "/") 
+      (tstamps "/") 
+      (title_block 
+        (title "Wide Carrier PCB") 
+        (company "Quantum Science and Technology Lab") 
+        (rev "v1") 
+        (date "2023-11-02") 
+        (source "wide_v1_4_layer.kicad_sch") 
+        (comment 
+          (number "1") 
+          (value "By: Marcus Edwards")) 
+        (comment 
+          (number "2") 
+          (value "Revised By: Edward Leung")) 
+        (comment 
+          (number "3") 
+          (value "")) 
+        (comment 
+          (number "4") 
+          (value "")) 
+        (comment 
+          (number "5") 
+          (value "")) 
+        (comment 
+          (number "6") 
+          (value "")) 
+        (comment 
+          (number "7") 
+          (value "")) 
+        (comment 
+          (number "8") 
+          (value "")) 
+        (comment 
+          (number "9") 
+          (value ""))))) 
+  (components 
+    (comp 
+      (ref "C1") 
+      (value "CMP-06035-056113-1") 
+      (footprint "Capacitor_SMD:C_0402_1005Metric") 
+      (fields 
+        (field 
+          (name "Footprint") "Capacitor_SMD:C_0402_1005Metric") 
+        (field 
+          (name "Datasheet")) 
+        (field 
+          (name "Description"))) 
+      (libsource 
+        (lib "carrier") 
+        (part "CMP-06035-056113-1") 
+        (description "")) 
+      (property 
+        (name "Sheetname") 
+        (value "Root")) 
+      (property 
+        (name "Sheetfile") 
+        (value "wide_v1_4_layer.kicad_sch")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "ad2b003d-deb8-4385-9087-3ec1fc003a98")) 
+    (comp 
+      (ref "C2") 
+      (value "CMP-06035-056113-1") 
+      (footprint "Capacitor_SMD:C_0402_1005Metric") 
+      (fields 
+        (field 
+          (name "Footprint") "Capacitor_SMD:C_0402_1005Metric") 
+        (field 
+          (name "Datasheet")) 
+        (field 
+          (name "Description"))) 
+      (libsource 
+        (lib "carrier") 
+        (part "CMP-06035-056113-1") 
+        (description "")) 
+      (property 
+        (name "Sheetname") 
+        (value "Root")) 
+      (property 
+        (name "Sheetfile") 
+        (value "wide_v1_4_layer.kicad_sch")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "a4873254-6dca-4291-bd7e-a37b4e062eb3")) 
+    (comp 
+      (ref "C3") 
+      (value "CMP-06035-056113-1") 
+      (footprint "Capacitor_SMD:C_0402_1005Metric") 
+      (fields 
+        (field 
+          (name "Footprint") "Capacitor_SMD:C_0402_1005Metric") 
+        (field 
+          (name "Datasheet")) 
+        (field 
+          (name "Description"))) 
+      (libsource 
+        (lib "carrier") 
+        (part "CMP-06035-056113-1") 
+        (description "")) 
+      (property 
+        (name "Sheetname") 
+        (value "Root")) 
+      (property 
+        (name "Sheetfile") 
+        (value "wide_v1_4_layer.kicad_sch")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "00f811f6-20b3-467f-9e6d-754bad77b71c")) 
+    (comp 
+      (ref "C4") 
+      (value "CMP-06035-056113-1") 
+      (footprint "Capacitor_SMD:C_0402_1005Metric") 
+      (fields 
+        (field 
+          (name "Footprint") "Capacitor_SMD:C_0402_1005Metric") 
+        (field 
+          (name "Datasheet")) 
+        (field 
+          (name "Description"))) 
+      (libsource 
+        (lib "carrier") 
+        (part "CMP-06035-056113-1") 
+        (description "")) 
+      (property 
+        (name "Sheetname") 
+        (value "Root")) 
+      (property 
+        (name "Sheetfile") 
+        (value "wide_v1_4_layer.kicad_sch")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "bf29f3d7-429b-434b-bec9-f2e30eb99a5f")) 
+    (comp 
+      (ref "R1") 
+      (value "CMP-2002-04609-1") 
+      (footprint "Capacitor_SMD:C_0402_1005Metric") 
+      (fields 
+        (field 
+          (name "Footprint") "Capacitor_SMD:C_0402_1005Metric") 
+        (field 
+          (name "Datasheet")) 
+        (field 
+          (name "Description"))) 
+      (libsource 
+        (lib "carrier") 
+        (part "CMP-2002-04609-1") 
+        (description "")) 
+      (property 
+        (name "Sheetname") 
+        (value "Root")) 
+      (property 
+        (name "Sheetfile") 
+        (value "wide_v1_4_layer.kicad_sch")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "8d84c07b-fcee-48bf-86cc-18199100af55")) 
+    (comp 
+      (ref "R2") 
+      (value "CMP-2002-04609-1") 
+      (footprint "Resistor_SMD:R_0402_1005Metric") 
+      (fields 
+        (field 
+          (name "Footprint") "Resistor_SMD:R_0402_1005Metric") 
+        (field 
+          (name "Datasheet")) 
+        (field 
+          (name "Description"))) 
+      (libsource 
+        (lib "carrier") 
+        (part "CMP-2002-04609-1") 
+        (description "")) 
+      (property 
+        (name "Sheetname") 
+        (value "Root")) 
+      (property 
+        (name "Sheetfile") 
+        (value "wide_v1_4_layer.kicad_sch")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "332f59fa-ce1f-4852-8adf-c42f496c4fdf")) 
+    (comp 
+      (ref "R3") 
+      (value "CMP-2002-04609-1") 
+      (footprint "Resistor_SMD:R_0402_1005Metric") 
+      (fields 
+        (field 
+          (name "Footprint") "Resistor_SMD:R_0402_1005Metric") 
+        (field 
+          (name "Datasheet")) 
+        (field 
+          (name "Description"))) 
+      (libsource 
+        (lib "carrier") 
+        (part "CMP-2002-04609-1") 
+        (description "")) 
+      (property 
+        (name "Sheetname") 
+        (value "Root")) 
+      (property 
+        (name "Sheetfile") 
+        (value "wide_v1_4_layer.kicad_sch")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "69356530-72a2-47c4-8741-18e6ebf996e2")) 
+    (comp 
+      (ref "R4") 
+      (value "CMP-2002-04609-1") 
+      (footprint "Resistor_SMD:R_0402_1005Metric") 
+      (fields 
+        (field 
+          (name "Footprint") "Resistor_SMD:R_0402_1005Metric") 
+        (field 
+          (name "Datasheet")) 
+        (field 
+          (name "Description"))) 
+      (libsource 
+        (lib "carrier") 
+        (part "CMP-2002-04609-1") 
+        (description "")) 
+      (property 
+        (name "Sheetname") 
+        (value "Root")) 
+      (property 
+        (name "Sheetfile") 
+        (value "wide_v1_4_layer.kicad_sch")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "6f6ba60d-c138-4dd2-8132-fbe99bb58d76")) 
+    (comp 
+      (ref "Sample1") 
+      (value "~") 
+      (footprint "PcbLib_narrow_v2:sample") 
+      (fields 
+        (field 
+          (name "Footprint") "PcbLib_narrow_v2:sample") 
+        (field 
+          (name "Datasheet")) 
+        (field 
+          (name "Description"))) 
+      (libsource 
+        (lib "new_carrier") 
+        (part "sample") 
+        (description "")) 
+      (property 
+        (name "Sheetname") 
+        (value "Root")) 
+      (property 
+        (name "Sheetfile") 
+        (value "wide_v1_4_layer.kicad_sch")) 
+      (property 
+        (name "exclude_from_bom")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "f45a1c94-9cee-495c-8ad1-abfcee14e38d")) 
+    (comp 
+      (ref "SMP1") 
+      (value "SMP") 
+      (footprint "PcbLib_narrow_v2:581-M25-113L461") 
+      (fields 
+        (field 
+          (name "Footprint") "PcbLib_narrow_v2:581-M25-113L461") 
+        (field 
+          (name "Datasheet")) 
+        (field 
+          (name "Description"))) 
+      (libsource 
+        (lib "carrier") 
+        (part "SMP") 
+        (description "")) 
+      (property 
+        (name "Sheetname") 
+        (value "Root")) 
+      (property 
+        (name "Sheetfile") 
+        (value "wide_v1_4_layer.kicad_sch")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "22e0b273-b3c4-4b05-8a70-debc1949abdf")) 
+    (comp 
+      (ref "SMP2") 
+      (value "SMP") 
+      (footprint "PcbLib_narrow_v2:581-M25-113L461") 
+      (fields 
+        (field 
+          (name "Footprint") "PcbLib_narrow_v2:581-M25-113L461") 
+        (field 
+          (name "Datasheet")) 
+        (field 
+          (name "Description"))) 
+      (libsource 
+        (lib "carrier") 
+        (part "SMP") 
+        (description "")) 
+      (property 
+        (name "Sheetname") 
+        (value "Root")) 
+      (property 
+        (name "Sheetfile") 
+        (value "wide_v1_4_layer.kicad_sch")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "da5830f2-cc2a-431e-a205-691d33cccfcb")) 
+    (comp 
+      (ref "SMP3") 
+      (value "SMP") 
+      (footprint "PcbLib_narrow_v2:581-M25-113L461") 
+      (fields 
+        (field 
+          (name "Footprint") "PcbLib_narrow_v2:581-M25-113L461") 
+        (field 
+          (name "Datasheet")) 
+        (field 
+          (name "Description"))) 
+      (libsource 
+        (lib "carrier") 
+        (part "SMP") 
+        (description "")) 
+      (property 
+        (name "Sheetname") 
+        (value "Root")) 
+      (property 
+        (name "Sheetfile") 
+        (value "wide_v1_4_layer.kicad_sch")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "86a9e8f7-49ed-460f-88c7-6806a4ef797f")) 
+    (comp 
+      (ref "SMP4") 
+      (value "SMP") 
+      (footprint "PcbLib_narrow_v2:581-M25-113L461") 
+      (fields 
+        (field 
+          (name "Footprint") "PcbLib_narrow_v2:581-M25-113L461") 
+        (field 
+          (name "Datasheet")) 
+        (field 
+          (name "Description"))) 
+      (libsource 
+        (lib "carrier") 
+        (part "SMP") 
+        (description "")) 
+      (property 
+        (name "Sheetname") 
+        (value "Root")) 
+      (property 
+        (name "Sheetfile") 
+        (value "wide_v1_4_layer.kicad_sch")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "5f767e6d-f12e-4610-b85f-b84cca614efc")) 
+    (comp 
+      (ref "ZIF1") 
+      (value "~") 
+      (footprint "Molex_5025985193 (zif51):5025985193") 
+      (fields 
+        (field 
+          (name "Footprint") "Molex_5025985193 (zif51):5025985193") 
+        (field 
+          (name "Datasheet")) 
+        (field 
+          (name "Description"))) 
+      (libsource 
+        (lib "new_carrier") 
+        (part "MOLEX_5025985193") 
+        (description "")) 
+      (property 
+        (name "Sheetname") 
+        (value "Root")) 
+      (property 
+        (name "Sheetfile") 
+        (value "wide_v1_4_layer.kicad_sch")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "841a0286-64a5-4d0b-8a0f-70d792bad887"))) 
+  (libparts 
+    (libpart 
+      (lib "carrier") 
+      (part "CMP-06035-056113-1") 
+      (fields 
+        (field 
+          (name "Reference") "C") 
+        (field 
+          (name "Value") "CMP-06035-056113-1") 
+        (field 
+          (name "Footprint")) 
+        (field 
+          (name "Datasheet")) 
+        (field 
+          (name "Description"))) 
+      (pins 
+        (pin 
+          (num "1") 
+          (name "1") 
+          (type "passive")) 
+        (pin 
+          (num "2") 
+          (name "2") 
+          (type "passive")))) 
+    (libpart 
+      (lib "carrier") 
+      (part "CMP-2002-04609-1") 
+      (fields 
+        (field 
+          (name "Reference") "R") 
+        (field 
+          (name "Value") "CMP-2002-04609-1") 
+        (field 
+          (name "Footprint")) 
+        (field 
+          (name "Datasheet")) 
+        (field 
+          (name "Description"))) 
+      (pins 
+        (pin 
+          (num "1") 
+          (name "1") 
+          (type "passive")) 
+        (pin 
+          (num "2") 
+          (name "2") 
+          (type "passive")))) 
+    (libpart 
+      (lib "carrier") 
+      (part "SMP") 
+      (fields 
+        (field 
+          (name "Reference") "SMP") 
+        (field 
+          (name "Value") "SMP") 
+        (field 
+          (name "Footprint")) 
+        (field 
+          (name "Datasheet")) 
+        (field 
+          (name "Description"))) 
+      (pins 
+        (pin 
+          (num "1") 
+          (name "1") 
+          (type "passive")) 
+        (pin 
+          (num "2") 
+          (name "2") 
+          (type "passive")) 
+        (pin 
+          (num "3") 
+          (name "3") 
+          (type "passive")) 
+        (pin 
+          (num "4") 
+          (name "4") 
+          (type "passive")) 
+        (pin 
+          (num "5") 
+          (name "5") 
+          (type "passive")))) 
+    (libpart 
+      (lib "new_carrier") 
+      (part "MOLEX_5025985193") 
+      (fields 
+        (field 
+          (name "Reference") "ZIF") 
+        (field 
+          (name "Value")) 
+        (field 
+          (name "Footprint")) 
+        (field 
+          (name "Datasheet")) 
+        (field 
+          (name "Description"))) 
+      (pins 
+        (pin 
+          (num "1") 
+          (name "") 
+          (type "passive")) 
+        (pin 
+          (num "2") 
+          (name "") 
+          (type "passive")) 
+        (pin 
+          (num "3") 
+          (name "") 
+          (type "passive")) 
+        (pin 
+          (num "4") 
+          (name "") 
+          (type "passive")) 
+        (pin 
+          (num "5") 
+          (name "") 
+          (type "passive")) 
+        (pin 
+          (num "6") 
+          (name "") 
+          (type "passive")) 
+        (pin 
+          (num "7") 
+          (name "") 
+          (type "passive")) 
+        (pin 
+          (num "8") 
+          (name "") 
+          (type "passive")) 
+        (pin 
+          (num "9") 
+          (name "") 
+          (type "passive")) 
+        (pin 
+          (num "10") 
+          (name "") 
+          (type "passive")) 
+        (pin 
+          (num "11") 
+          (name "") 
+          (type "passive")) 
+        (pin 
+          (num "12") 
+          (name "") 
+          (type "passive")) 
+        (pin 
+          (num "13") 
+          (name "") 
+          (type "passive")) 
+        (pin 
+          (num "14") 
+          (name "") 
+          (type "passive")) 
+        (pin 
+          (num "15") 
+          (name "") 
+          (type "passive")) 
+        (pin 
+          (num "16") 
+          (name "") 
+          (type "passive")) 
+        (pin 
+          (num "17") 
+          (name "") 
+          (type "passive")) 
+        (pin 
+          (num "18") 
+          (name "") 
+          (type "passive")) 
+        (pin 
+          (num "19") 
+          (name "") 
+          (type "passive")) 
+        (pin 
+          (num "20") 
+          (name "") 
+          (type "passive")) 
+        (pin 
+          (num "21") 
+          (name "") 
+          (type "passive")) 
+        (pin 
+          (num "22") 
+          (name "") 
+          (type "passive")) 
+        (pin 
+          (num "23") 
+          (name "") 
+          (type "passive")) 
+        (pin 
+          (num "24") 
+          (name "") 
+          (type "passive")) 
+        (pin 
+          (num "25") 
+          (name "") 
+          (type "passive")) 
+        (pin 
+          (num "26") 
+          (name "") 
+          (type "passive")) 
+        (pin 
+          (num "27") 
+          (name "") 
+          (type "passive")) 
+        (pin 
+          (num "28") 
+          (name "") 
+          (type "passive")) 
+        (pin 
+          (num "29") 
+          (name "") 
+          (type "passive")) 
+        (pin 
+          (num "30") 
+          (name "") 
+          (type "passive")) 
+        (pin 
+          (num "31") 
+          (name "") 
+          (type "passive")) 
+        (pin 
+          (num "32") 
+          (name "") 
+          (type "passive")) 
+        (pin 
+          (num "33") 
+          (name "") 
+          (type "passive")) 
+        (pin 
+          (num "34") 
+          (name "") 
+          (type "passive")) 
+        (pin 
+          (num "35") 
+          (name "") 
+          (type "passive")) 
+        (pin 
+          (num "36") 
+          (name "") 
+          (type "passive")) 
+        (pin 
+          (num "37") 
+          (name "") 
+          (type "passive")) 
+        (pin 
+          (num "38") 
+          (name "") 
+          (type "passive")) 
+        (pin 
+          (num "39") 
+          (name "") 
+          (type "passive")) 
+        (pin 
+          (num "40") 
+          (name "") 
+          (type "passive")) 
+        (pin 
+          (num "41") 
+          (name "") 
+          (type "passive")) 
+        (pin 
+          (num "42") 
+          (name "") 
+          (type "passive")) 
+        (pin 
+          (num "43") 
+          (name "") 
+          (type "passive")) 
+        (pin 
+          (num "44") 
+          (name "") 
+          (type "passive")) 
+        (pin 
+          (num "45") 
+          (name "") 
+          (type "passive")) 
+        (pin 
+          (num "46") 
+          (name "") 
+          (type "passive")) 
+        (pin 
+          (num "47") 
+          (name "") 
+          (type "passive")) 
+        (pin 
+          (num "48") 
+          (name "") 
+          (type "passive")) 
+        (pin 
+          (num "49") 
+          (name "") 
+          (type "passive")) 
+        (pin 
+          (num "50") 
+          (name "") 
+          (type "passive")) 
+        (pin 
+          (num "51") 
+          (name "") 
+          (type "passive")))) 
+    (libpart 
+      (lib "new_carrier") 
+      (part "sample") 
+      (fields 
+        (field 
+          (name "Reference") "Sample1") 
+        (field 
+          (name "Value") "~") 
+        (field 
+          (name "Footprint") "PcbLib_narrow_v2:sample") 
+        (field 
+          (name "Datasheet")) 
+        (field 
+          (name "Description"))) 
+      (pins 
+        (pin 
+          (num "1") 
+          (name "") 
+          (type "passive")) 
+        (pin 
+          (num "2") 
+          (name "") 
+          (type "passive")) 
+        (pin 
+          (num "3") 
+          (name "") 
+          (type "passive")) 
+        (pin 
+          (num "4") 
+          (name "") 
+          (type "passive")) 
+        (pin 
+          (num "5") 
+          (name "") 
+          (type "passive")) 
+        (pin 
+          (num "6") 
+          (name "") 
+          (type "passive")) 
+        (pin 
+          (num "7") 
+          (name "") 
+          (type "passive")) 
+        (pin 
+          (num "8") 
+          (name "") 
+          (type "passive")) 
+        (pin 
+          (num "9") 
+          (name "") 
+          (type "passive")) 
+        (pin 
+          (num "10") 
+          (name "") 
+          (type "passive")) 
+        (pin 
+          (num "11") 
+          (name "") 
+          (type "passive")) 
+        (pin 
+          (num "12") 
+          (name "") 
+          (type "passive")) 
+        (pin 
+          (num "13") 
+          (name "") 
+          (type "passive")) 
+        (pin 
+          (num "14") 
+          (name "") 
+          (type "passive")) 
+        (pin 
+          (num "15") 
+          (name "") 
+          (type "passive")) 
+        (pin 
+          (num "16") 
+          (name "") 
+          (type "passive")) 
+        (pin 
+          (num "17") 
+          (name "") 
+          (type "passive")) 
+        (pin 
+          (num "18") 
+          (name "") 
+          (type "passive")) 
+        (pin 
+          (num "19") 
+          (name "") 
+          (type "passive")) 
+        (pin 
+          (num "20") 
+          (name "") 
+          (type "passive")) 
+        (pin 
+          (num "21") 
+          (name "") 
+          (type "passive")) 
+        (pin 
+          (num "22") 
+          (name "") 
+          (type "passive")) 
+        (pin 
+          (num "23") 
+          (name "") 
+          (type "passive")) 
+        (pin 
+          (num "24") 
+          (name "") 
+          (type "passive")) 
+        (pin 
+          (num "25") 
+          (name "") 
+          (type "passive")) 
+        (pin 
+          (num "26") 
+          (name "") 
+          (type "passive")) 
+        (pin 
+          (num "27") 
+          (name "") 
+          (type "passive")) 
+        (pin 
+          (num "28") 
+          (name "") 
+          (type "passive")) 
+        (pin 
+          (num "29") 
+          (name "") 
+          (type "passive")) 
+        (pin 
+          (num "30") 
+          (name "") 
+          (type "passive")) 
+        (pin 
+          (num "31") 
+          (name "") 
+          (type "passive")) 
+        (pin 
+          (num "32") 
+          (name "") 
+          (type "passive")) 
+        (pin 
+          (num "33") 
+          (name "") 
+          (type "passive")) 
+        (pin 
+          (num "34") 
+          (name "") 
+          (type "passive")) 
+        (pin 
+          (num "35") 
+          (name "") 
+          (type "passive")) 
+        (pin 
+          (num "36") 
+          (name "") 
+          (type "passive")) 
+        (pin 
+          (num "37") 
+          (name "") 
+          (type "passive")) 
+        (pin 
+          (num "38") 
+          (name "") 
+          (type "passive")) 
+        (pin 
+          (num "39") 
+          (name "") 
+          (type "passive")) 
+        (pin 
+          (num "40") 
+          (name "") 
+          (type "passive")) 
+        (pin 
+          (num "41") 
+          (name "") 
+          (type "passive")) 
+        (pin 
+          (num "42") 
+          (name "") 
+          (type "passive")) 
+        (pin 
+          (num "43") 
+          (name "") 
+          (type "passive")) 
+        (pin 
+          (num "44") 
+          (name "") 
+          (type "passive")) 
+        (pin 
+          (num "45") 
+          (name "") 
+          (type "passive")) 
+        (pin 
+          (num "46") 
+          (name "") 
+          (type "passive")) 
+        (pin 
+          (num "47") 
+          (name "") 
+          (type "passive")) 
+        (pin 
+          (num "48") 
+          (name "") 
+          (type "passive")) 
+        (pin 
+          (num "49") 
+          (name "") 
+          (type "passive")) 
+        (pin 
+          (num "50") 
+          (name "") 
+          (type "passive"))))) 
+  (libraries) 
+  (nets 
+    (net 
+      (code "1") 
+      (name "13") 
+      (class "Default") 
+      (node 
+        (ref "Sample1") 
+        (pin "13") 
+        (pintype "passive")) 
+      (node 
+        (ref "ZIF1") 
+        (pin "13") 
+        (pintype "passive"))) 
+    (net 
+      (code "2") 
+      (name "14") 
+      (class "Default") 
+      (node 
+        (ref "Sample1") 
+        (pin "14") 
+        (pintype "passive")) 
+      (node 
+        (ref "ZIF1") 
+        (pin "14") 
+        (pintype "passive"))) 
+    (net 
+      (code "3") 
+      (name "15") 
+      (class "Default") 
+      (node 
+        (ref "Sample1") 
+        (pin "15") 
+        (pintype "passive")) 
+      (node 
+        (ref "ZIF1") 
+        (pin "15") 
+        (pintype "passive"))) 
+    (net 
+      (code "4") 
+      (name "16") 
+      (class "Default") 
+      (node 
+        (ref "Sample1") 
+        (pin "16") 
+        (pintype "passive")) 
+      (node 
+        (ref "ZIF1") 
+        (pin "16") 
+        (pintype "passive"))) 
+    (net 
+      (code "5") 
+      (name "17") 
+      (class "Default") 
+      (node 
+        (ref "Sample1") 
+        (pin "17") 
+        (pintype "passive")) 
+      (node 
+        (ref "ZIF1") 
+        (pin "17") 
+        (pintype "passive"))) 
+    (net 
+      (code "6") 
+      (name "18") 
+      (class "Default") 
+      (node 
+        (ref "Sample1") 
+        (pin "18") 
+        (pintype "passive")) 
+      (node 
+        (ref "ZIF1") 
+        (pin "18") 
+        (pintype "passive"))) 
+    (net 
+      (code "7") 
+      (name "19") 
+      (class "Default") 
+      (node 
+        (ref "Sample1") 
+        (pin "19") 
+        (pintype "passive")) 
+      (node 
+        (ref "ZIF1") 
+        (pin "19") 
+        (pintype "passive"))) 
+    (net 
+      (code "8") 
+      (name "20") 
+      (class "Default") 
+      (node 
+        (ref "Sample1") 
+        (pin "20") 
+        (pintype "passive")) 
+      (node 
+        (ref "ZIF1") 
+        (pin "20") 
+        (pintype "passive"))) 
+    (net 
+      (code "9") 
+      (name "21") 
+      (class "Default") 
+      (node 
+        (ref "Sample1") 
+        (pin "21") 
+        (pintype "passive")) 
+      (node 
+        (ref "ZIF1") 
+        (pin "21") 
+        (pintype "passive"))) 
+    (net 
+      (code "10") 
+      (name "22") 
+      (class "Default") 
+      (node 
+        (ref "Sample1") 
+        (pin "22") 
+        (pintype "passive")) 
+      (node 
+        (ref "ZIF1") 
+        (pin "22") 
+        (pintype "passive"))) 
+    (net 
+      (code "11") 
+      (name "23") 
+      (class "Default") 
+      (node 
+        (ref "Sample1") 
+        (pin "23") 
+        (pintype "passive")) 
+      (node 
+        (ref "ZIF1") 
+        (pin "23") 
+        (pintype "passive"))) 
+    (net 
+      (code "12") 
+      (name "24") 
+      (class "Default") 
+      (node 
+        (ref "Sample1") 
+        (pin "24") 
+        (pintype "passive")) 
+      (node 
+        (ref "ZIF1") 
+        (pin "24") 
+        (pintype "passive"))) 
+    (net 
+      (code "13") 
+      (name "25") 
+      (class "Default") 
+      (node 
+        (ref "Sample1") 
+        (pin "25") 
+        (pintype "passive")) 
+      (node 
+        (ref "ZIF1") 
+        (pin "25") 
+        (pintype "passive"))) 
+    (net 
+      (code "14") 
+      (name "26") 
+      (class "Default") 
+      (node 
+        (ref "Sample1") 
+        (pin "26") 
+        (pintype "passive")) 
+      (node 
+        (ref "ZIF1") 
+        (pin "26") 
+        (pintype "passive"))) 
+    (net 
+      (code "15") 
+      (name "27") 
+      (class "Default") 
+      (node 
+        (ref "Sample1") 
+        (pin "27") 
+        (pintype "passive")) 
+      (node 
+        (ref "ZIF1") 
+        (pin "27") 
+        (pintype "passive"))) 
+    (net 
+      (code "16") 
+      (name "28") 
+      (class "Default") 
+      (node 
+        (ref "Sample1") 
+        (pin "28") 
+        (pintype "passive")) 
+      (node 
+        (ref "ZIF1") 
+        (pin "28") 
+        (pintype "passive"))) 
+    (net 
+      (code "17") 
+      (name "29") 
+      (class "Default") 
+      (node 
+        (ref "Sample1") 
+        (pin "29") 
+        (pintype "passive")) 
+      (node 
+        (ref "ZIF1") 
+        (pin "29") 
+        (pintype "passive"))) 
+    (net 
+      (code "18") 
+      (name "30") 
+      (class "Default") 
+      (node 
+        (ref "Sample1") 
+        (pin "30") 
+        (pintype "passive")) 
+      (node 
+        (ref "ZIF1") 
+        (pin "30") 
+        (pintype "passive"))) 
+    (net 
+      (code "19") 
+      (name "31") 
+      (class "Default") 
+      (node 
+        (ref "Sample1") 
+        (pin "31") 
+        (pintype "passive")) 
+      (node 
+        (ref "ZIF1") 
+        (pin "31") 
+        (pintype "passive"))) 
+    (net 
+      (code "20") 
+      (name "32") 
+      (class "Default") 
+      (node 
+        (ref "Sample1") 
+        (pin "32") 
+        (pintype "passive")) 
+      (node 
+        (ref "ZIF1") 
+        (pin "32") 
+        (pintype "passive"))) 
+    (net 
+      (code "21") 
+      (name "33") 
+      (class "Default") 
+      (node 
+        (ref "Sample1") 
+        (pin "33") 
+        (pintype "passive")) 
+      (node 
+        (ref "ZIF1") 
+        (pin "33") 
+        (pintype "passive"))) 
+    (net 
+      (code "22") 
+      (name "34") 
+      (class "Default") 
+      (node 
+        (ref "Sample1") 
+        (pin "34") 
+        (pintype "passive")) 
+      (node 
+        (ref "ZIF1") 
+        (pin "34") 
+        (pintype "passive"))) 
+    (net 
+      (code "23") 
+      (name "35") 
+      (class "Default") 
+      (node 
+        (ref "Sample1") 
+        (pin "35") 
+        (pintype "passive")) 
+      (node 
+        (ref "ZIF1") 
+        (pin "35") 
+        (pintype "passive"))) 
+    (net 
+      (code "24") 
+      (name "36") 
+      (class "Default") 
+      (node 
+        (ref "Sample1") 
+        (pin "36") 
+        (pintype "passive")) 
+      (node 
+        (ref "ZIF1") 
+        (pin "36") 
+        (pintype "passive"))) 
+    (net 
+      (code "25") 
+      (name "37") 
+      (class "Default") 
+      (node 
+        (ref "Sample1") 
+        (pin "37") 
+        (pintype "passive")) 
+      (node 
+        (ref "ZIF1") 
+        (pin "37") 
+        (pintype "passive"))) 
+    (net 
+      (code "26") 
+      (name "38") 
+      (class "Default") 
+      (node 
+        (ref "Sample1") 
+        (pin "38") 
+        (pintype "passive")) 
+      (node 
+        (ref "ZIF1") 
+        (pin "38") 
+        (pintype "passive"))) 
+    (net 
+      (code "27") 
+      (name "39") 
+      (class "Default") 
+      (node 
+        (ref "Sample1") 
+        (pin "39") 
+        (pintype "passive")) 
+      (node 
+        (ref "ZIF1") 
+        (pin "39") 
+        (pintype "passive"))) 
+    (net 
+      (code "28") 
+      (name "40") 
+      (class "Default") 
+      (node 
+        (ref "Sample1") 
+        (pin "40") 
+        (pintype "passive")) 
+      (node 
+        (ref "ZIF1") 
+        (pin "40") 
+        (pintype "passive"))) 
+    (net 
+      (code "29") 
+      (name "41") 
+      (class "Default") 
+      (node 
+        (ref "Sample1") 
+        (pin "41") 
+        (pintype "passive")) 
+      (node 
+        (ref "ZIF1") 
+        (pin "41") 
+        (pintype "passive"))) 
+    (net 
+      (code "30") 
+      (name "42") 
+      (class "Default") 
+      (node 
+        (ref "Sample1") 
+        (pin "42") 
+        (pintype "passive")) 
+      (node 
+        (ref "ZIF1") 
+        (pin "42") 
+        (pintype "passive"))) 
+    (net 
+      (code "31") 
+      (name "43") 
+      (class "Default") 
+      (node 
+        (ref "Sample1") 
+        (pin "43") 
+        (pintype "passive")) 
+      (node 
+        (ref "ZIF1") 
+        (pin "43") 
+        (pintype "passive"))) 
+    (net 
+      (code "32") 
+      (name "44") 
+      (class "Default") 
+      (node 
+        (ref "Sample1") 
+        (pin "44") 
+        (pintype "passive")) 
+      (node 
+        (ref "ZIF1") 
+        (pin "44") 
+        (pintype "passive"))) 
+    (net 
+      (code "33") 
+      (name "45") 
+      (class "Default") 
+      (node 
+        (ref "Sample1") 
+        (pin "45") 
+        (pintype "passive")) 
+      (node 
+        (ref "ZIF1") 
+        (pin "45") 
+        (pintype "passive"))) 
+    (net 
+      (code "34") 
+      (name "46") 
+      (class "Default") 
+      (node 
+        (ref "Sample1") 
+        (pin "46") 
+        (pintype "passive")) 
+      (node 
+        (ref "ZIF1") 
+        (pin "46") 
+        (pintype "passive"))) 
+    (net 
+      (code "35") 
+      (name "47") 
+      (class "Default") 
+      (node 
+        (ref "Sample1") 
+        (pin "47") 
+        (pintype "passive")) 
+      (node 
+        (ref "ZIF1") 
+        (pin "47") 
+        (pintype "passive"))) 
+    (net 
+      (code "36") 
+      (name "48") 
+      (class "Default") 
+      (node 
+        (ref "Sample1") 
+        (pin "48") 
+        (pintype "passive")) 
+      (node 
+        (ref "ZIF1") 
+        (pin "48") 
+        (pintype "passive"))) 
+    (net 
+      (code "37") 
+      (name "49") 
+      (class "Default") 
+      (node 
+        (ref "Sample1") 
+        (pin "49") 
+        (pintype "passive")) 
+      (node 
+        (ref "ZIF1") 
+        (pin "49") 
+        (pintype "passive"))) 
+    (net 
+      (code "38") 
+      (name "50") 
+      (class "Default") 
+      (node 
+        (ref "Sample1") 
+        (pin "50") 
+        (pintype "passive")) 
+      (node 
+        (ref "ZIF1") 
+        (pin "50") 
+        (pintype "passive"))) 
+    (net 
+      (code "39") 
+      (name "GND") 
+      (class "Default") 
+      (node 
+        (ref "SMP1") 
+        (pin "2") 
+        (pinfunction "2") 
+        (pintype "passive")) 
+      (node 
+        (ref "SMP1") 
+        (pin "3") 
+        (pinfunction "3") 
+        (pintype "passive")) 
+      (node 
+        (ref "SMP1") 
+        (pin "4") 
+        (pinfunction "4") 
+        (pintype "passive")) 
+      (node 
+        (ref "SMP1") 
+        (pin "5") 
+        (pinfunction "5") 
+        (pintype "passive")) 
+      (node 
+        (ref "SMP2") 
+        (pin "2") 
+        (pinfunction "2") 
+        (pintype "passive")) 
+      (node 
+        (ref "SMP2") 
+        (pin "3") 
+        (pinfunction "3") 
+        (pintype "passive")) 
+      (node 
+        (ref "SMP2") 
+        (pin "4") 
+        (pinfunction "4") 
+        (pintype "passive")) 
+      (node 
+        (ref "SMP2") 
+        (pin "5") 
+        (pinfunction "5") 
+        (pintype "passive")) 
+      (node 
+        (ref "SMP3") 
+        (pin "2") 
+        (pinfunction "2") 
+        (pintype "passive")) 
+      (node 
+        (ref "SMP3") 
+        (pin "3") 
+        (pinfunction "3") 
+        (pintype "passive")) 
+      (node 
+        (ref "SMP3") 
+        (pin "4") 
+        (pinfunction "4") 
+        (pintype "passive")) 
+      (node 
+        (ref "SMP3") 
+        (pin "5") 
+        (pinfunction "5") 
+        (pintype "passive")) 
+      (node 
+        (ref "SMP4") 
+        (pin "2") 
+        (pinfunction "2") 
+        (pintype "passive")) 
+      (node 
+        (ref "SMP4") 
+        (pin "3") 
+        (pinfunction "3") 
+        (pintype "passive")) 
+      (node 
+        (ref "SMP4") 
+        (pin "4") 
+        (pinfunction "4") 
+        (pintype "passive")) 
+      (node 
+        (ref "SMP4") 
+        (pin "5") 
+        (pinfunction "5") 
+        (pintype "passive"))) 
+    (net 
+      (code "40") 
+      (name "Net-(C1-Pad1)") 
+      (class "Default") 
+      (node 
+        (ref "C1") 
+        (pin "1") 
+        (pinfunction "1") 
+        (pintype "passive")) 
+      (node 
+        (ref "SMP1") 
+        (pin "1") 
+        (pinfunction "1") 
+        (pintype "passive"))) 
+    (net 
+      (code "41") 
+      (name "Net-(C1-Pad2)") 
+      (class "Default") 
+      (node 
+        (ref "C1") 
+        (pin "2") 
+        (pinfunction "2") 
+        (pintype "passive")) 
+      (node 
+        (ref "R1") 
+        (pin "2") 
+        (pinfunction "2") 
+        (pintype "passive")) 
+      (node 
+        (ref "Sample1") 
+        (pin "1") 
+        (pintype "passive"))) 
+    (net 
+      (code "42") 
+      (name "Net-(C2-Pad1)") 
+      (class "Default") 
+      (node 
+        (ref "C2") 
+        (pin "1") 
+        (pinfunction "1") 
+        (pintype "passive")) 
+      (node 
+        (ref "SMP2") 
+        (pin "1") 
+        (pinfunction "1") 
+        (pintype "passive"))) 
+    (net 
+      (code "43") 
+      (name "Net-(C2-Pad2)") 
+      (class "Default") 
+      (node 
+        (ref "C2") 
+        (pin "2") 
+        (pinfunction "2") 
+        (pintype "passive")) 
+      (node 
+        (ref "R2") 
+        (pin "2") 
+        (pinfunction "2") 
+        (pintype "passive")) 
+      (node 
+        (ref "Sample1") 
+        (pin "2") 
+        (pintype "passive"))) 
+    (net 
+      (code "44") 
+      (name "Net-(C3-Pad1)") 
+      (class "Default") 
+      (node 
+        (ref "C3") 
+        (pin "1") 
+        (pinfunction "1") 
+        (pintype "passive")) 
+      (node 
+        (ref "SMP3") 
+        (pin "1") 
+        (pinfunction "1") 
+        (pintype "passive"))) 
+    (net 
+      (code "45") 
+      (name "Net-(C3-Pad2)") 
+      (class "Default") 
+      (node 
+        (ref "C3") 
+        (pin "2") 
+        (pinfunction "2") 
+        (pintype "passive")) 
+      (node 
+        (ref "R3") 
+        (pin "2") 
+        (pinfunction "2") 
+        (pintype "passive")) 
+      (node 
+        (ref "Sample1") 
+        (pin "3") 
+        (pintype "passive"))) 
+    (net 
+      (code "46") 
+      (name "Net-(C4-Pad1)") 
+      (class "Default") 
+      (node 
+        (ref "C4") 
+        (pin "1") 
+        (pinfunction "1") 
+        (pintype "passive")) 
+      (node 
+        (ref "SMP4") 
+        (pin "1") 
+        (pinfunction "1") 
+        (pintype "passive"))) 
+    (net 
+      (code "47") 
+      (name "Net-(C4-Pad2)") 
+      (class "Default") 
+      (node 
+        (ref "C4") 
+        (pin "2") 
+        (pinfunction "2") 
+        (pintype "passive")) 
+      (node 
+        (ref "R4") 
+        (pin "2") 
+        (pinfunction "2") 
+        (pintype "passive")) 
+      (node 
+        (ref "Sample1") 
+        (pin "4") 
+        (pintype "passive"))) 
+    (net 
+      (code "48") 
+      (name "Net-(R1-Pad1)") 
+      (class "Default") 
+      (node 
+        (ref "R1") 
+        (pin "1") 
+        (pinfunction "1") 
+        (pintype "passive")) 
+      (node 
+        (ref "ZIF1") 
+        (pin "1") 
+        (pintype "passive"))) 
+    (net 
+      (code "49") 
+      (name "Net-(R2-Pad1)") 
+      (class "Default") 
+      (node 
+        (ref "R2") 
+        (pin "1") 
+        (pinfunction "1") 
+        (pintype "passive")) 
+      (node 
+        (ref "ZIF1") 
+        (pin "2") 
+        (pintype "passive"))) 
+    (net 
+      (code "50") 
+      (name "Net-(R3-Pad1)") 
+      (class "Default") 
+      (node 
+        (ref "R3") 
+        (pin "1") 
+        (pinfunction "1") 
+        (pintype "passive")) 
+      (node 
+        (ref "ZIF1") 
+        (pin "3") 
+        (pintype "passive"))) 
+    (net 
+      (code "51") 
+      (name "Net-(R4-Pad1)") 
+      (class "Default") 
+      (node 
+        (ref "R4") 
+        (pin "1") 
+        (pinfunction "1") 
+        (pintype "passive")) 
+      (node 
+        (ref "ZIF1") 
+        (pin "4") 
+        (pintype "passive"))) 
+    (net 
+      (code "52") 
+      (name "Net-(Sample1-Pad5)") 
+      (class "Default") 
+      (node 
+        (ref "Sample1") 
+        (pin "5") 
+        (pintype "passive")) 
+      (node 
+        (ref "ZIF1") 
+        (pin "5") 
+        (pintype "passive"))) 
+    (net 
+      (code "53") 
+      (name "Net-(Sample1-Pad6)") 
+      (class "Default") 
+      (node 
+        (ref "Sample1") 
+        (pin "6") 
+        (pintype "passive")) 
+      (node 
+        (ref "ZIF1") 
+        (pin "6") 
+        (pintype "passive"))) 
+    (net 
+      (code "54") 
+      (name "Net-(Sample1-Pad7)") 
+      (class "Default") 
+      (node 
+        (ref "Sample1") 
+        (pin "7") 
+        (pintype "passive")) 
+      (node 
+        (ref "ZIF1") 
+        (pin "7") 
+        (pintype "passive"))) 
+    (net 
+      (code "55") 
+      (name "Net-(Sample1-Pad8)") 
+      (class "Default") 
+      (node 
+        (ref "Sample1") 
+        (pin "8") 
+        (pintype "passive")) 
+      (node 
+        (ref "ZIF1") 
+        (pin "8") 
+        (pintype "passive"))) 
+    (net 
+      (code "56") 
+      (name "Net-(Sample1-Pad9)") 
+      (class "Default") 
+      (node 
+        (ref "Sample1") 
+        (pin "9") 
+        (pintype "passive")) 
+      (node 
+        (ref "ZIF1") 
+        (pin "9") 
+        (pintype "passive"))) 
+    (net 
+      (code "57") 
+      (name "Net-(Sample1-Pad10)") 
+      (class "Default") 
+      (node 
+        (ref "Sample1") 
+        (pin "10") 
+        (pintype "passive")) 
+      (node 
+        (ref "ZIF1") 
+        (pin "10") 
+        (pintype "passive"))) 
+    (net 
+      (code "58") 
+      (name "Net-(Sample1-Pad11)") 
+      (class "Default") 
+      (node 
+        (ref "Sample1") 
+        (pin "11") 
+        (pintype "passive")) 
+      (node 
+        (ref "ZIF1") 
+        (pin "11") 
+        (pintype "passive"))) 
+    (net 
+      (code "59") 
+      (name "Net-(Sample1-Pad12)") 
+      (class "Default") 
+      (node 
+        (ref "Sample1") 
+        (pin "12") 
+        (pintype "passive")) 
+      (node 
+        (ref "ZIF1") 
+        (pin "12") 
+        (pintype "passive"))) 
+    (net 
+      (code "60") 
+      (name "unconnected-(ZIF1-Pad51)") 
+      (class "Default") 
+      (node 
+        (ref "ZIF1") 
+        (pin "51") 
+        (pintype "passive")))))
