@@ -3,10 +3,19 @@ M48
 ; FORMAT={-:-/ absolute / metric / decimal}
 ; #@! TF.CreationDate,2025-03-28T09:35:13-07:00
 ; #@! TF.GenerationSoftware,Kicad,Pcbnew,9.0.0
-; #@! TF.FileFunction,NonPlated,1,4,NPTH
+; #@! TF.FileFunction,Plated,2,3,Buried
 FMAT,2
 METRIC
+; #@! TA.AperFunction,Plated,Buried,ViaDrill
+T1C0.200
 %
 G90
 G05
+T1
+X76.16Y-102.9
+X76.46Y-102.147
+X76.76Y-102.92
+X77.06Y-102.17
+X77.36Y-102.93
+X77.664Y-102.16
 M30
