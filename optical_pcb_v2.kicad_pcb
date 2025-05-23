@@ -8229,6 +8229,39 @@
 		(layer "F.CrtYd")
 		(uuid "ef8dd26b-c289-4e3a-a310-5321b0e43d72")
 	)
+	(gr_rect
+		(start 79.58 83.4)
+		(end 81.58 85.4)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill no)
+		(layer "User.1")
+		(uuid "0ee928f4-adbf-4c7a-b6c8-9f4445b9f269")
+	)
+	(gr_rect
+		(start 72.79 85.84)
+		(end 80.79 88.84)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill no)
+		(layer "User.1")
+		(uuid "712669f2-0515-49a0-b513-a4dfb81a4085")
+	)
+	(gr_rect
+		(start 76.05 82.38)
+		(end 79.05 85.38)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill no)
+		(layer "User.1")
+		(uuid "c3817cee-65e5-4bab-92cb-dccb57199303")
+	)
 	(gr_text "R2"
 		(at 79.56 107.98 0)
 		(layer "F.SilkS")
